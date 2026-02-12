@@ -1,0 +1,19 @@
+Day – 2: Lists, Tuples & Sets
+
+Started learning Python collections: list, tuple, and set
+
+Understood that lists are ordered and mutable
+
+Practiced list operations: append(), remove(), sort(), indexing
+
+Learned that tuples are ordered but immutable
+
+Used tuples to store fixed data
+
+Understood that sets are unordered and store only unique values
+
+Practiced add(), remove() on sets
+
+Learned the key differences between list, tuple, and set
+
+Solved small examples for each data structure

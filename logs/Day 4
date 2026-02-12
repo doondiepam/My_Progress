@@ -1,0 +1,43 @@
+Day – 4: More Problems on All Data Types with Auto Coding Practice
+
+Practiced problems using all basic data types: int, float, str, bool, list, tuple, set
+
+Wrote programs to:
+
+Take user input and identify its data type automatically
+
+Convert input values into different types using type casting
+
+Check whether a number is even or odd (int + bool logic)
+
+Solved problems on strings:
+
+Reverse a string
+
+Count vowels and consonants
+
+Check if a string is a palindrome
+
+Solved problems on lists:
+
+Sort a list without using built-in functions
+
+Find the second largest number
+
+Remove duplicates using a set
+
+Solved problems on tuples:
+
+Find the index of an element
+
+Count occurrences of a value
+
+Solved problems on sets:
+
+Find common elements between two sets
+
+Check subset and superset conditions
+
+Practiced auto-code style problems (logic-based coding without hints)
+
+Focused on writing clean, readable Python code for each solution
